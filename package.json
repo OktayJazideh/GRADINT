@@ -1,0 +1,22 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.1.2",
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.52.1"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "@highlightjs/vue-plugin": "^2.1.0",
+    "highlight.js": "^11.6.0",
+    "vue-color-kit": "^1.0.5",
+    "vue3-swatches": "^1.0.10",
+    "vuedraggable": "^4.1.0"
+  }
+}
